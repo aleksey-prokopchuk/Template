@@ -1,0 +1,46 @@
+{
+  "editor.fontSize": 16,
+  "workbench.colorTheme": "One Dark Pro Darker",
+  "files.autoSave": "onFocusChange",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "editor.renderWhitespace": "all",
+  "editor.unicodeHighlight.ambiguousCharacters": false,
+  "ecsstractor_port.destination": "tab",
+  "ecsstractor_port.comment_style": "css",
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "bracketPairColorizer.depreciation-notice": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "formattingToggle.affects": [
+    "editor.formatOnPaste",
+    "editor.formatOnSave",
+    "editor.formatOnType"
+  ],
+  "editor.minimap.enabled": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "expanded",
+      "extensionName": ".css",
+      "savePath": "/css",
+      "savePathReplacementPairs": null
+    },
+    {
+      "format": "compressed",
+      "extensionName": ".min.css",
+      "savePath": "/css"
+    }
+  ],
+  "liveSassCompile.settings.excludeList": [
+    "/**/node_modules/**",
+    "/.vscode/**"
+  ],
+  "liveSassCompile.settings.generateMap": true,
+  "liveServer.settings.port": 1234,
+  "liveSassCompile.settings.autoprefix": null,
+  "liveSassCompile.settings.forceBaseDirectory": ""
+}
